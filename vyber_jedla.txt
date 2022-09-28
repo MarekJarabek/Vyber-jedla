@@ -1,0 +1,32 @@
+g
+g
+g
+r
+b
+b
+b
+r
+g
+g
+r
+b
+g
+r
+b
+g
+r
+b
+g
+g
+g
+r
+r
+r
+100b
+250b
+ g
+500 r
+500500 o
+500 b
+500 r
+500 g
